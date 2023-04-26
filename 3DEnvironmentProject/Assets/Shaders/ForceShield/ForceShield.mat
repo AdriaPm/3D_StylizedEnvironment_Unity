@@ -55,7 +55,7 @@ Material:
     - _Distance: 0
     - _EmissiveIntensity: 1
     - _OffsetU: 0
-    - _OffsetV: 1
+    - _OffsetV: 0.2
     - _QueueControl: 0
     - _QueueOffset: 0
     - _Radius: 1
