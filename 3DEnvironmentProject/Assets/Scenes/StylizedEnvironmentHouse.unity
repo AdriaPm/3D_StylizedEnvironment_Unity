@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.5573405, g: 0.3917728, b: 0.9991755, a: 1}
+  m_IndirectSpecularColor: {r: 0.55734545, g: 0.3917312, b: 0.99853903, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -1187,7 +1187,7 @@ Light:
   m_Type: 0
   m_Shape: 0
   m_Color: {r: 0.8679245, g: 0.8348394, b: 0.2988608, a: 1}
-  m_Intensity: 8
+  m_Intensity: 3
   m_Range: 1.770205
   m_SpotAngle: 74.14068
   m_InnerSpotAngle: 0
@@ -19031,7 +19031,7 @@ Light:
   m_Type: 0
   m_Shape: 0
   m_Color: {r: 0.8679245, g: 0.8348394, b: 0.2988608, a: 1}
-  m_Intensity: 8
+  m_Intensity: 3
   m_Range: 1.770205
   m_SpotAngle: 74.14068
   m_InnerSpotAngle: 0
@@ -22414,7 +22414,7 @@ Light:
   m_Type: 0
   m_Shape: 0
   m_Color: {r: 0.8679245, g: 0.8348394, b: 0.2988608, a: 1}
-  m_Intensity: 8
+  m_Intensity: 3
   m_Range: 1.8796325
   m_SpotAngle: 61.52719
   m_InnerSpotAngle: 0
@@ -29081,7 +29081,7 @@ Light:
   m_Type: 0
   m_Shape: 0
   m_Color: {r: 0.8679245, g: 0.8348394, b: 0.2988608, a: 1}
-  m_Intensity: 8
+  m_Intensity: 3
   m_Range: 1.8796325
   m_SpotAngle: 61.52719
   m_InnerSpotAngle: 0
@@ -34301,7 +34301,7 @@ Light:
   m_Type: 0
   m_Shape: 0
   m_Color: {r: 0.8679245, g: 0.8348394, b: 0.2988608, a: 1}
-  m_Intensity: 8
+  m_Intensity: 3
   m_Range: 1.8796325
   m_SpotAngle: 74.14068
   m_InnerSpotAngle: 0
