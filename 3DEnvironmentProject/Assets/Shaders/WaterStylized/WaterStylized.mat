@@ -106,12 +106,12 @@ Material:
     - _Distance: 1.15
     - _DstBlend: 0
     - _EnvironmentReflections: 1
-    - _FoamAnimateU: 2.22
-    - _FoamAnimateV: 1.12
+    - _FoamAnimateU: 0.25
+    - _FoamAnimateV: 0.8
     - _FoamColor: 0
-    - _FoamCutOff: 1.75
+    - _FoamCutOff: 5.4
     - _FoamOpacity: 1
-    - _FoamScaleU: 10
+    - _FoamScaleU: 1.1
     - _FoamScaleV: 10
     - _GlossMapScale: 0
     - _Glossiness: 0
@@ -132,14 +132,14 @@ Material:
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _Surface: 0
-    - _Waves: 1
+    - _Waves: 0
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
     - _BaseColor: {r: 0, g: 0.7673323, b: 1, a: 1}
     - _Color: {r: 0, g: 0.76733226, b: 1, a: 1}
     - _ColorA: {r: 0.009344946, g: 0.4678984, b: 0.6603774, a: 0}
-    - _ColorB: {r: 0.062745094, g: 0.66971934, b: 1, a: 0}
+    - _ColorB: {r: 0, g: 0.28755817, b: 0.4433962, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _FoamColor: {r: 1, g: 1, b: 1, a: 0}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
