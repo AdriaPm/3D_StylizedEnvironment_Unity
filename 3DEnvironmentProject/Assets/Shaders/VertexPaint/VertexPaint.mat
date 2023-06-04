@@ -66,7 +66,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Rocks:
-        m_Texture: {fileID: 2800000, guid: 3414655e44c285248a778bc9a5a901ea, type: 3}
+        m_Texture: {fileID: 2800000, guid: 6bcb86f946597cd478943ec64e275895, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SampleTexture2D_257ab981418b4a52905d9a61c61f4321_Texture_1:
