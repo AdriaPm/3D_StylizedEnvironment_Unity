@@ -1338,7 +1338,7 @@ MonoBehaviour:
       m_Leaf: Cinematics/Recordings
       m_ForceAssetFolder: 0
       m_AbsolutePath: 
-    m_FileName: movie_<Take>
+    m_FileName: Pons_Adria_Cinematic
   outputFormat: 0
   videoBitRateMode: 2
   captureAlpha: 0
