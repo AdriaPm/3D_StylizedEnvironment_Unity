@@ -10,7 +10,9 @@ Material:
   m_Name: M_Grass
   m_Shader: {fileID: -6465566751694194690, guid: ee9e269534314db418dea189d232fd68,
     type: 3}
-  m_ValidKeywords: []
+  m_ValidKeywords:
+  - _MAIN_LIGHT_SHADOWS_CASCADE
+  - _SOFT_SHADOWS
   m_InvalidKeywords: []
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -93,12 +95,16 @@ Material:
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 0
+    - _MAIN_LIGHT_SHADOWS: 0
+    - _MAIN_LIGHT_SHADOWS_CASCADE: 1
     - _Metallic: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.005
     - _QueueControl: 0
     - _QueueOffset: 0
     - _ReceiveShadows: 1
+    - _SOFT_SHADOWS: 1
+    - _SingleColor: 0
     - _Smoothness: 0.5
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
@@ -111,12 +117,12 @@ Material:
     - _ZWrite: 1
     m_Colors:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
-    - _BottomGrassColor: {r: 0.31999996, g: 0.58, b: 0.04, a: 0}
+    - _BottomGrassColor: {r: 0, g: 0, b: 0, a: 0}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
-    - _TopGrassColor: {r: 0.69, g: 0.74, b: 0.12999997, a: 0}
-    - _WindDirection: {r: 1, g: 0, b: 0, a: 0}
+    - _TopGrassColor: {r: 0.11447757, g: 0.23584908, b: 0, a: 0}
+    - _WindDirection: {r: 0, g: 1, b: 0, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &9171946195890405832
 MonoBehaviour:
